@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on creating games
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: Kind
+- ⚡ Fun fact: Good Boi
 
 <!---
 lambertlegaspi/lambertlegaspi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
